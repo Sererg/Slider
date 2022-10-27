@@ -37,12 +37,18 @@ button {
 }
 
 /* Слайдер */
-
 .slider {
     margin: 0 auto;
     width: 800px;
     height: 450px;
     background-color: rgb(182, 203, 222);
+}
+.slider img {
+    margin: 0 auto;
+    width: 800px;
+    height: 450px;
+    background-color: rgb(182, 203, 222);
+    object-fit: cover;
 }
 
 .hidden {
